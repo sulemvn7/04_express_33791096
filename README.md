@@ -1,2 +1,25 @@
 # 04_express_33791096
-My Express App
+# My Express App
+
+## Description
+MyPage is a simple web application built using Node.js and Express. 
+It demonstrates routing, parameterized routes, serving static HTML files, and route chaining. 
+The app includes the following routes:
+- `/` : Homepage displaying a welcome message
+- `/about` : About page
+- `/contact` : Contact information
+- `/date` : Displays the current date and time
+- `/welcome/:name` : Personalized greeting for any name
+- `/chain` : Demonstrates route chaining using `next()`
+- `/file` : Serves a static HTML file (`a.html`)
+
+## Technologies Used
+- Node.js
+- Express.js
+- HTML (for static files)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-URL>
+
