@@ -21,4 +21,6 @@ The app includes the following routes:
 ## Installation
 1. Clone the repository:
    git clone <your-repo-URL>
+2.Run forever start index.js on VM.
+3Or you can just use the link to access the web app.
 
