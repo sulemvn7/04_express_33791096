@@ -2,7 +2,7 @@
 # My Express App
 
 ## Description
-MyPage is a simple web application built using Node.js and Express. 
+MyExpress is a simple web application built using Node.js and Express. 
 It demonstrates routing, parameterized routes, serving static HTML files, and route chaining. 
 The app includes the following routes:
 - `/` : Homepage displaying a welcome message
