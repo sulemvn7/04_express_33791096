@@ -9,7 +9,7 @@ The app includes the following routes:
 - `/about` : About page
 - `/contact` : Contact information
 - `/date` : Displays the current date and time
-- `/welcome/:name` : Personalized greeting for any name
+- `/welcome/name` : Personalized greeting for any name
 - `/chain` : Demonstrates route chaining using `next()`
 - `/file` : Serves a static HTML file (`a.html`)
 
